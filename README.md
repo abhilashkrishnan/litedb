@@ -1,2 +1,2 @@
 # litedb
-Lightweight SQL Database written in C.
+Lightweight SQL Database written in C (WIP).
